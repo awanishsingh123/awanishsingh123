@@ -47,11 +47,3 @@
 
 ---
 
-### 💡 Pro Design Features:
-1. Typing SVG banner — animated title for professional effect.  
-2. Colorful, modern theme (`radical`) for stats cards.  
-3. LeetCode stats + green dot submissions heatmap — instant visual impact.  
-4. Skill badges & icons for LinkedIn, LeetCode, GitHub.  
-5. Top languages + GitHub stats — portfolio-ready.  
-6. Fun profile views badge — subtle personal touch.  
-7. Clean sections with spacing for readability.  
