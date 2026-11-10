@@ -46,22 +46,5 @@
 
 ---
 
-## ⚡ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwanishSingh123&layout=compact&theme=radical)
 
----
-
-## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AwanishSingh123&show_icons=true&theme=radical)
-
----
-
-## 🌈 Fun Stats (Optional)
-![Profile Views](https://komarev.com/ghpvc/?username=AwanishSingh123&color=green)
-
----
-
-> “Strive for progress, not perfection.” 🚀
-
----
 
