@@ -25,6 +25,24 @@
 - **Web Development / Tools:** HTML, CSS, JS, React, Node.js
 - **Competitive Programming:** Problem Solving, Algorithms, Data Structures
 - **Database & Version Control:** MySQL, Git, GitHub
+- ## 🤖 AI & Machine Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Generative AI
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Google Gemini API
+- Pandas & NumPy
+- Google Colab
+- Kaggle
+- Jupyter Notebook
 
 ---
 
