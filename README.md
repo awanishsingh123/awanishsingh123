@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Awanish Singh
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+%7C+Competitive+Programmer+%7C+Problem+Solver)](https://leetcode.com/AwanishSingh123)
 
 ---
 
