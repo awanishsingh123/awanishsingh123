@@ -6,17 +6,17 @@
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AwanishSingh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/AwanishSingh123/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-AwanishSingh-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/AwanishSingh123)
+[![LeetCode](https://img.shields.io/badge/LeetCode-AwanishSingh-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/AwanishSingh001/)
 [![GitHub](https://img.shields.io/badge/GitHub-AwanishSingh-black?style=for-the-badge&logo=github)](https://github.com/AwanishSingh123)
 
 ---
 
 ## 💻 LeetCode Stats & Submissions
 ### 📊 Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/AwanishSingh123?theme=dark&font=Nunito&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AwanishSingh001?theme=dark&font=Nunito&ext=contest)
 
 ### 🟢 Submissions Heatmap
-![LeetCode Submissions](https://leetcard.jacoblin.cool/AwanishSingh123?theme=dark&ext=heatmap)
+![LeetCode Submissions](https://leetcard.jacoblin.cool/AwanishSingh001?theme=dark&ext=heatmap)
 
 ---
 
