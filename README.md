@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Awanish Singh
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&width=600&lines=Software+Engineer+%7C+Competitive+Programmer+%7C+Problem+Solver)](https://leetcode.com/AwanishSingh123)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+%7C+Competitive+Programmer+%7C+Problem+Solver)](https://leetcode.com/AwanishSingh123)
 
 ---
 
