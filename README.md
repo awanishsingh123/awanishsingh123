@@ -6,7 +6,7 @@
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AwanishSingh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/AwanishSingh123/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-AwanishSingh-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/AwanishSingh001/)
-[![GitHub](https://img.shields.io/badge/GitHub-AwanishSingh-black?style=for-the-badge&logo=github)](https://github.com/AwanishSingh123)
+[![GitHub](https://img.shields.io/badge/GitHub-AwanishSingh-brown?style=for-the-badge&logo=github)](https://github.com/AwanishSingh123)
 
 ---
 
