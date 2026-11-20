@@ -6,7 +6,7 @@
 
 Building practical software projects with machine learning, natural language processing, and retrieval-augmented generation.
 
-[GitHub](https://github.com/awanishsingh123) · [LinkedIn](https://www.linkedin.com/in/AwanishSingh123/) · [LeetCode](https://leetcode.com/u/AwanishSingh001/)
+[GitHub](https://github.com/awanishsingh123) · [LinkedIn](https://www.linkedin.com/in/awanishSingh123/) · [LeetCode](https://leetcode.com/u/AwanishSingh001/)
 
 </div>
 
@@ -32,15 +32,15 @@ Building practical software projects with machine learning, natural language pro
 
 ## Featured Projects
 
+### [AI-Powered Fake News Detection with NLP, ML & RAG](https://github.com/awanishsingh123/AI-Powered-Fake-News-Detection-with-DL-and-RAG)
+A fake-news analysis project combining NLP feature extraction, traditional machine-learning classifiers, and a retrieval-augmented generation workflow. Includes Logistic Regression and Random Forest approaches, plus an FLAN-T5-based RAG/LLM component.
+
+**Tech:** Python, NLP, scikit-learn, Logistic Regression, Random Forest, RAG, FLAN-T5
+
 ### [Intelligent Support Ticket RAG](https://github.com/awanishsingh123/intelligent-support-ticket-rag)
 An AI-powered support application that classifies incoming queries, retrieves relevant knowledge, and generates context-aware responses.
 
 **Tech:** Python, FastAPI, React, PostgreSQL, scikit-learn, Pinecone, BM25, Cohere Rerank, Groq
-
-### [AI-Powered Fake News Detection](https://github.com/awanishsingh123/AI-Powered-Fake-News-Detection-with-ML-and-RAG)
-An experimental project combining NLP features, traditional machine learning classifiers, and RAG-based workflows for fake-news analysis.
-
-**Tech:** Python, NLP, scikit-learn, Logistic Regression, Random Forest, RAG, FLAN-T5
 
 ## Coding Profile
 
