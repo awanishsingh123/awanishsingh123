@@ -73,6 +73,14 @@ A research-oriented project exploring fake-news analysis through traditional NLP
 - Solved **1,018+ problems** and participated in **7 coding contests** on LeetCode, as listed in my resume.
 - Regularly practice problem-solving, algorithmic thinking, and writing efficient solutions.
 
+### LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AwanishSingh001?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/AwanishSingh001/)
+
+</div>
+
 [Visit my LeetCode profile](https://leetcode.com/u/AwanishSingh001/)
 
 ## Let's Connect
